@@ -23,7 +23,7 @@ npm run build
 
 ### Features:
 
-* ES6 Support via [babel](https://babeljs.io/) (v7)
+* ES6 Support via [babel](https://babeljs.io/) (v8)
 * SASS Support via [sass-loader](https://github.com/jtangelder/sass-loader)
 * Linting via [eslint-loader](https://github.com/MoOx/eslint-loader)
 * Shorthand HTML template via [pugjs](https://github.com/pugjs)
